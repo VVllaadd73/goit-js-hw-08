@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul.gallery {
+	list-style: none;
+	display: flex;
+	gap: 24px;
+	padding: 0;
+	margin: 0;
+	flex-wrap: wrap;
+}
